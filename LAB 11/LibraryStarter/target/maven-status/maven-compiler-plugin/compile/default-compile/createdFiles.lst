@@ -1,0 +1,9 @@
+com\mycompany\librarystarter\MemberLimitExceededException.class
+com\mycompany\librarystarter\LibraryItem.class
+com\mycompany\librarystarter\LibraryStarter.class
+com\mycompany\librarystarter\Member.class
+com\mycompany\librarystarter\Book.class
+com\mycompany\librarystarter\Dvd.class
+com\mycompany\librarystarter\ItemNotAvailableException.class
+com\mycompany\librarystarter\Borrowable.class
+com\mycompany\librarystarter\Loan.class
